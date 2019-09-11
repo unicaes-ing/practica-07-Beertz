@@ -1,0 +1,7 @@
+C:\Users\Galdamez\Documents\Repositorios de Programación Estructurada\Práctica_Núm.7\Práctica_Núm.7\Práctica_Núm.7\bin\Debug\Práctica_Núm.7.exe.config
+C:\Users\Galdamez\Documents\Repositorios de Programación Estructurada\Práctica_Núm.7\Práctica_Núm.7\Práctica_Núm.7\bin\Debug\Práctica_Núm.7.exe
+C:\Users\Galdamez\Documents\Repositorios de Programación Estructurada\Práctica_Núm.7\Práctica_Núm.7\Práctica_Núm.7\bin\Debug\Práctica_Núm.7.pdb
+C:\Users\Galdamez\Documents\Repositorios de Programación Estructurada\Práctica_Núm.7\Práctica_Núm.7\Práctica_Núm.7\obj\Debug\Práctica_Núm.7.csprojAssemblyReference.cache
+C:\Users\Galdamez\Documents\Repositorios de Programación Estructurada\Práctica_Núm.7\Práctica_Núm.7\Práctica_Núm.7\obj\Debug\Práctica_Núm.7.csproj.CoreCompileInputs.cache
+C:\Users\Galdamez\Documents\Repositorios de Programación Estructurada\Práctica_Núm.7\Práctica_Núm.7\Práctica_Núm.7\obj\Debug\Práctica_Núm.7.exe
+C:\Users\Galdamez\Documents\Repositorios de Programación Estructurada\Práctica_Núm.7\Práctica_Núm.7\Práctica_Núm.7\obj\Debug\Práctica_Núm.7.pdb
